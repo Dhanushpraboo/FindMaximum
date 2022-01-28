@@ -42,7 +42,7 @@ def max_marks(list1):
 
 ```
 ## Output
-![Method sort](sort.png) 
+![Method sort](sort().png) 
 ![Method Max](max.png)
 ![builtin](builtin.png)
 
